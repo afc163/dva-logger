@@ -1,0 +1,24 @@
+{
+  "name": "dva-logger",
+  "version": "0.1.0",
+  "description": "redux-logger for dva",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dvajs/dva-logger"
+  },
+  "homepage": "https://github.com/dvajs/dva-logger",
+  "keywords": [
+    "dva",
+    "dva-plugin",
+    "logger",
+    "redux"
+  ],
+  "author": "afc163 <afc163@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux-logger": "^2.7.0"
+  },
+  "peerDependencies": {
+    "dva": "^1.1.0"
+  },
+}
