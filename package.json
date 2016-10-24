@@ -20,5 +20,5 @@
   },
   "peerDependencies": {
     "dva": "^1.1.0"
-  },
+  }
 }
