@@ -1,5 +1,7 @@
+const { createLogger } = require('redux-logger');
+
 module.exports = function(opts) {
   return {
-    onAction: require('redux-logger')(opts),
+    onAction: createLogger(opts),
   };
 };
