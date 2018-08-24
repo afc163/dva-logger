@@ -16,7 +16,7 @@
   "author": "afc163 <afc163@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "redux-logger": "^2.7.0"
+    "redux-logger": "^3.0.6"
   },
   "peerDependencies": {
     "dva": "^1.1.0"
