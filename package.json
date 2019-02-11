@@ -19,6 +19,6 @@
     "redux-logger": "^3.0.6"
   },
   "peerDependencies": {
-    "dva": "^1.1.0"
+    "dva": "^2.4.1"
   }
 }
